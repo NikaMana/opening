@@ -4,8 +4,8 @@
   "description": "Manikina Nika",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --output dist/bundle.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": 
   },
   "keywords": [],
   "author": "",
